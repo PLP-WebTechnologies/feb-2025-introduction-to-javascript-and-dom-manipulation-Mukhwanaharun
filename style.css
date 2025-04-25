@@ -1,0 +1,4 @@
+// Modify CSS style
+document.getElementById("changeStyleBtn").addEventListener("click", function () {
+  document.body.style.backgroundColor = "#c2f0c2"; // Light green
+});
